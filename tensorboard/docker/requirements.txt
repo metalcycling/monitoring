@@ -1,0 +1,4 @@
+tensorboard
+tensorflow_io
+torch_tb_profiler
+boto3
