@@ -1,0 +1,6 @@
+jupyterlab
+jupyterlab-vim
+ipywidgets
+widgetsnbextension
+datasets
+transformers
